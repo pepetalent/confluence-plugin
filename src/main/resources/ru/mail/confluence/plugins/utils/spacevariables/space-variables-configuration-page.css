@@ -1,0 +1,25 @@
+#space-variables-table {
+    table-layout: fixed;
+    width:100%
+}
+
+#space-variables-table td {
+    word-wrap:break-word;
+}
+
+#space-variables-configuration-dialog {
+    width: 800px;
+    height: 300px;
+    top: 140px;
+}
+
+#space-variables-configuration-dialog .aui-dialog2-content {
+    overflow: hidden;
+}
+
+#space-variables-configuration-dialog form {
+    margin: 0;
+    height: 340px;
+    padding: 10px 20px 20px 20px;
+    overflow: hidden;
+}
